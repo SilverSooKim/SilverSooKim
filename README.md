@@ -1,5 +1,8 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=김티처&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&fontColor=ffffff&desc=개발%20공유%20포럼)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=김티처&fontSize=90" />
+<!--
+![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=김티처&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&fontColor=ffffff&desc=개발%20공유%20포럼)-->
 <!--
 **SilverSooKim/SilverSooKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
